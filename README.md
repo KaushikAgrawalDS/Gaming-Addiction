@@ -94,7 +94,23 @@ project-name/
 │
 
 │── README.md
+Gaming-addiction/
+│── data/
+│   ├── raw/
+│   │   └── raw.csv
+│   ├── processed/
+│   │   └── processed             
+│   └── encoded/
+│       └── encoded         
+│
+│── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_eda_visualization.ipynb
+│   └── 03_Model Trainini and Evaluation.ipynb
+│
+│
+│── requirements.txt
+│── README.md
+│── .gitignore
 
 
-## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
