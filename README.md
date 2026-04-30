@@ -81,34 +81,7 @@ Key findings:
 ## 📂 Project Structure
 
 ```text
-project-name/
-├── data/
-│   ├── raw/
-│   │   └── raw.csv
-│   ├── processed/
-│   │   └── processed
-│   └── encoded/
-│       └── encoded.
-│
-├── notebooks/
-│   ├── ## 📂 Project Structure
-
-```text
-project-name/
-├── data/
-│   ├── raw/
-│   │   └── raw.csv
-│   ├── processed/
-│   │   └── processed.csv
-│   └── encoded/
-│       └── encoded.csv
-│
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── ## 📂 Project Structure
-
-```text
-project-name/
+Gaming-addiction/
 ├── data/
 │   ├── raw/
 │   │   └── raw.csv
