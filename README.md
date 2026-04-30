@@ -77,6 +77,24 @@ Key findings:
 - Build real-time prediction system  
 
 --
+## Project structure
+project-name/
+│── data/
+│   ├── raw/
+│   │   └── raw.csv
+│   ├── processed/
+│   │   └── processed             
+│   └── encoded/
+│       └── encoded.               
+│
+│── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_eda_visualization.ipynb
+│   └── 03_model_training.ipynb
+│
+
+│── README.md
+
 
 ## ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
