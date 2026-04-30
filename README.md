@@ -1,4 +1,4 @@
-# 🎮 Gaming Addiction Prediction using Machine Learning
+# Gaming Addiction Prediction using Machine Learning
 
 ## Overview
 Gaming addiction is becoming a serious issue among students due to the easy availability of smartphones and the internet.  
