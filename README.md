@@ -35,10 +35,10 @@ This project analyzes student behavior and predicts whether a student is addicte
 
 ## Exploratory Data Analysis
 Key findings:
-- ⏱️ Gaming time is the strongest factor  
-- 😴 Late-night sleep increases addiction  
-- 🎮 Battle Royale games are most addictive  
-- 📉 Addicted students have slightly lower CGPA  
+- Gaming time is the strongest factor  
+- Late-night sleep increases addiction  
+- Battle Royale games are most addictive  
+- Addicted students have slightly lower CGPA  
 
 ---
 
