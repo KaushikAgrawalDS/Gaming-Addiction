@@ -78,39 +78,50 @@ Key findings:
 
 --
 ## Project structure
+## 📂 Project Structure
+
+```text
 project-name/
-│── data/
+├── data/
 │   ├── raw/
 │   │   └── raw.csv
 │   ├── processed/
-│   │   └── processed             
+│   │   └── processed
 │   └── encoded/
-│       └── encoded.               
+│       └── encoded.
 │
-│── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_eda_visualization.ipynb
-│   └── 03_model_training.ipynb
-│
+├── notebooks/
+│   ├── ## 📂 Project Structure
 
-│── README.md
-Gaming-addiction/
-│── data/
+```text
+project-name/
+├── data/
 │   ├── raw/
 │   │   └── raw.csv
 │   ├── processed/
-│   │   └── processed             
+│   │   └── processed.csv
 │   └── encoded/
-│       └── encoded         
+│       └── encoded.csv
 │
-│── notebooks/
+├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
-│   ├── 02_eda_visualization.ipynb
-│   └── 03_Model Trainini and Evaluation.ipynb
+│   ├── ## 📂 Project Structure
+
+```text
+project-name/
+├── data/
+│   ├── raw/
+│   │   └── raw.csv
+│   ├── processed/
+│   │   └── processed
+│   └── encoded/
+│       └── encoded
+│
+├── notebooks/
+│   ├── Data_Pre_Processing.ipynb
+│   ├──EDA & Visualization.ipynb
+│   └── Model Training and Evaluation.ipynb
 │
 │
-│── requirements.txt
-│── README.md
-│── .gitignore
-
-
+├── README.md
+```
