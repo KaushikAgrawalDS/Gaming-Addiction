@@ -77,7 +77,6 @@ Key findings:
 - Build real-time prediction system  
 
 --
-## Project structure
 ## 📂 Project Structure
 
 ```text
