@@ -76,8 +76,8 @@ Key findings:
 - Apply advanced models (XGBoost, Random Forest)  
 - Build real-time prediction system  
 
---
-## 📂 Project Structure
+
+##  Project Structure
 
 ```text
 Gaming-addiction/
