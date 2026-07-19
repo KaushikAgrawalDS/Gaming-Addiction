@@ -82,18 +82,13 @@ Key findings:
 
 ```text
 Gaming-addiction/
-├── data/
-│   ├── raw/
-│   │   └── raw.csv
-│   ├── processed/
-│   │   └── processed
-│   └── encoded/
-│       └── encoded
+├──  raw.csv
+├── processed
+├── encoded
 │
-├── notebooks/
-│   ├── Data_Pre_Processing.ipynb
-│   ├──EDA & Visualization.ipynb
-│   └── Model Training and Evaluation.ipynb
+├── Data_Pre_Processing.ipynb
+├──EDA & Visualization.ipynb
+├──Model Training and Evaluation.ipynb
 │
 │
 ├── README.md
